@@ -1,0 +1,13 @@
+C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\Application\bin\Debug\netstandard2.1\Application.deps.json
+C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\Application\bin\Debug\netstandard2.1\Application.dll
+C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\Application\bin\Debug\netstandard2.1\Application.pdb
+C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\Application\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\Application\bin\Debug\netstandard2.1\Persistence.dll
+C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\Application\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\Application\bin\Debug\netstandard2.1\Persistence.pdb
+C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\Application\obj\Debug\netstandard2.1\Application.dll
+C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\Application\obj\Debug\netstandard2.1\Application.pdb
