@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\api\\API.csproj": {}
+    "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\api\\API.csproj": {
+    "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\api\\API.csproj",
+        "projectPath": "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Muham\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\api\\obj\\",
+        "outputPath": "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
