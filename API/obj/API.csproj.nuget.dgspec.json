@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\api\\API.csproj": {}
+    "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\api\\API.csproj": {
+    "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\api\\API.csproj",
+        "projectPath": "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Muham\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\api\\obj\\",
+        "outputPath": "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -89,14 +89,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.1"
+          "netcoreapp3.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.1": {
+          "netcoreapp3.0": {
             "projectReferences": {
               "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\Domain\\Domain.csproj": {
                 "projectPath": "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\Domain\\Domain.csproj"
@@ -114,7 +114,7 @@
         }
       },
       "frameworks": {
-        "netstandard2.1": {
+        "netcoreapp3.0": {
           "dependencies": {
             "FluentValidation.AspNetCore": {
               "target": "Package",
@@ -136,7 +136,7 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "NETStandard.Library": {
+            "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
@@ -161,14 +161,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.1"
+          "netcoreapp3.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.1": {
+          "netcoreapp3.0": {
             "projectReferences": {}
           }
         },
@@ -179,7 +179,13 @@
         }
       },
       "frameworks": {
-        "netstandard2.1": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -191,7 +197,7 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "NETStandard.Library": {
+            "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
@@ -216,14 +222,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.1"
+          "netcoreapp3.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.1": {
+          "netcoreapp3.0": {
             "projectReferences": {
               "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\Domain\\Domain.csproj": {
                 "projectPath": "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\Domain\\Domain.csproj"
@@ -238,7 +244,7 @@
         }
       },
       "frameworks": {
-        "netstandard2.1": {
+        "netcoreapp3.0": {
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -260,7 +266,7 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "NETStandard.Library": {
+            "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
