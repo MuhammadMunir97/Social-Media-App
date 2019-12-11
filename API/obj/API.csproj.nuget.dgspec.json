@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\API\\API.csproj": {}
+    "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\API\\API.csproj": {
+    "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\api\\API.csproj",
         "packagesPath": "C:\\Users\\Muham\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\API\\obj\\",
+        "outputPath": "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -32,6 +32,9 @@
             "projectReferences": {
               "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\Application\\Application.csproj": {
                 "projectPath": "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\Application\\Application.csproj"
+              },
+              "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -45,6 +48,10 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "target": "Package",
               "version": "[3.0.0, )"
@@ -184,6 +191,71 @@
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\Infrastructure\\Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Muham\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Muham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Muham\\Documents\\.net projects\\FIrstApiThroughCourse\\Application\\Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.6.0, )"
             }
           },
           "imports": [

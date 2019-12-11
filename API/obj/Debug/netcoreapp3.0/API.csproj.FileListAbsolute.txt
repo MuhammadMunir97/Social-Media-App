@@ -53,3 +53,15 @@ C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\API\bin\Debug\netco
 C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\API\bin\Debug\netcoreapp3.0\FluentValidation.AspNetCore.dll
 C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\API\bin\Debug\netcoreapp3.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\API\obj\Debug\netcoreapp3.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\API\bin\Debug\netcoreapp3.0\API.StaticWebAssets.xml
+C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\api\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\api\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\api\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\api\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\api\bin\Debug\netcoreapp3.0\Infrastructure.dll
+C:\Users\Muham\Documents\.net projects\FIrstApiThroughCourse\api\bin\Debug\netcoreapp3.0\Infrastructure.pdb
